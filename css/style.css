@@ -1,0 +1,51 @@
+h1{
+    color:hotpink;
+    margin-left: 500px;
+    
+}
+
+ul{
+    font-family: cursive;
+}
+
+ol{
+    font-family: cursive;
+}
+
+p{
+    font-size: 2rem;
+    text-align: center;
+    margin-left: 10px;
+}
+
+img{
+    border: 5px black dotted;
+
+}
+
+h1:hover{
+    color: blue;
+}
+h3:hover{
+    color: purple;
+}
+
+.small
+{
+    font-size: small;
+}
+
+li{
+    padding-top: 10px;
+}
+.orange{
+    background-color: orange;
+}
+
+.impact{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.big{
+    font-size:larger ;
+}
